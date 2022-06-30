@@ -5,7 +5,7 @@ import Experience from "../components/CV/Experience";
 import Formation from "../components/CV/Formation";
 import Hobbies from "../components/CV/Hobbies";
 
-import Image from "../assets/placeholder-200x200.png";
+import Image from "../assets/photo.png";
 
 const Cv = () => {
   return (
